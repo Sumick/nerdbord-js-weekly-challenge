@@ -1,4 +1,4 @@
-# Nerdbord JS Weekly Challenge
+# Nerdbord JS Weekly Challenge!
 
 Welcome to the Nerdbord JS Weekly Challenge! Each week, we'll be publishing a new JavaScript coding challenge in this repository. Each challenge is structured as a separate package, so you can choose which one you want to solve.
 
